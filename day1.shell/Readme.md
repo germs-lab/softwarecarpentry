@@ -2,7 +2,7 @@
 
 **Original Material by Milad Fatenejad, Sasha Wood, and Radhika Khetani**
 
-**Modified by Adina Howe**
+**Modified by Jared Flater and Adina Howe**
 
 ### Exercise solutions have been posted as an ipython notebook.
 
