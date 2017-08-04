@@ -4,7 +4,7 @@
 
 **Modified by Adina Howe**
 
-###Exercise solutions have been posted as an ipython notebook.
+### Exercise solutions have been posted as an ipython notebook.
 
 You can view solutions by navigating to the day1.shell directory and running ipython notebook.
 
