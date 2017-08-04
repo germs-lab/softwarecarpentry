@@ -46,7 +46,7 @@ started by typing `bash` in the terminal. Many commands, especially a
 lot of the basic ones, work across the various shells but many things
 are different. I recommend sticking with bash and learning it well.
 
-([Here is a link for more information](http://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[Here is a link for more information](http://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 To open a terminal, just single click on the "Terminal" icon on the
 Desktop.
@@ -163,7 +163,7 @@ manual using the `man` program. Try entering:
     man ls
 
 This will open the manual page for `ls`. Use the space key to go
-forward and b to go backwards. When you are done reading, just hit `q`
+forward and b to go backwards, j and k will move you one line up and down, respectively. When you are done reading, just hit `q`
 to exit.
 
 Programs that are run from the shell can get extremely complicated. To
