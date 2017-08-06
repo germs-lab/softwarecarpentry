@@ -181,7 +181,7 @@ give `ls` the names of other directories to view. Navigate to the
 home directory if you are not already there. Then enter the
 command:
 
-    ls /home/swc_hhmi
+    ls /ubuntu/swc_hhmi
 
 
 ## Saving time with shortcuts, wild cards, and tab completion
