@@ -278,12 +278,12 @@ So how does this actually work? Well...when the shell (bash) sees a
 word that contains the `*` character, it automatically looks for files
 that match the given pattern. In this case, it identified four such
 files. Then, it replaced the `*4*1` with the list of files, separated
-by spaces. In other the two commands:
+by spaces. In other words, the two commands:
 
     ls *4*1
     ls 0241 0341 0431 0481
 
-are exactly identical. The `ls` command cannot tell the difference
+are identical. The `ls` command cannot tell the difference
 between these two things.
 
 * * * *
