@@ -61,7 +61,7 @@ command:
 
 Followed by:
 
-    cd day1.shell
+    cd swc_hhmi/day1.shell/ 
 
 This command downloads all the data that will be needed for this tutorial.  
 
