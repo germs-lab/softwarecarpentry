@@ -201,7 +201,7 @@ above your current directory. Thus:
 
     ls ..
 
-prints the contents of the `/home/swc/boot-camps`. You can chain
+prints the contents of the `/home/ubuntu/swc_hhmi`. You can chain
 these together, so:
 
     ls ../../
