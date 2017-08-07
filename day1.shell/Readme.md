@@ -304,12 +304,12 @@ lot of time. When you start typing out the name of a directory, then
 hit the tab key, the shell will try to fill in the rest of the
 directory name. For example, enter:
 
-    cd S<tab>
+    cd s<tab>
 
 The shell will fill in the rest of the directory name for
-`boot-camps`. Now enter:
+`swc_hhmi`. Now enter:
 
-    ls ~/swc_hhmi/day1.shell/e<tab><tab>
+    ls ~/swc_hhmi/day1.shell/ex<tab><tab>
 
 When you hit the first tab, nothing happens. The reason is that there
 are multiple directories in the home directory which start with
@@ -373,7 +373,7 @@ this directory. Now, try to run the program by entering:
     hello
 
 You should get an error saying that hello cannot be found. That is
-because the directory `/home/swc/swc_hhmo/day1.shell` is not in the
+because the directory `/home/swc/swc_hhmi/day1.shell` is not in the
 `PATH`. You can run the `hello` program by entering:
 
     ./hello
@@ -417,7 +417,7 @@ is where the name comes from, `cat` is short for concatenate).
 1.  Print out the contents of the `~/swc_hhmi/day1.shell/dictionary.txt`
     file. What does this file contain?
 
-2.  Without changing directories, (you should still be in `shell`),
+2.  Without changing directories, (you should still be in `day1.shell`),
     use one short command to print the contents of all of the files in
     the `/home/swc/swc_hhmi/day1.shell/data/THOMAS` directory.
 
