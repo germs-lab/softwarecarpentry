@@ -190,7 +190,7 @@ command:
 
 There are some shortcuts which you should know about. Dealing with the
 home directory is very common. So, in the shell the tilde character,
-`~`, is a shortcut for your home directory. Navigate to the `shell`
+`~`, is a shortcut for your home directory. Navigate to the `day1.shell`
 directory, then enter the command:
 
     ls ~
