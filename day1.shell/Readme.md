@@ -447,14 +447,6 @@ beginning of the file and search.
 Remember, the `man` program uses the same commands, so you can search
 documentation using "/" as well!
 
-* * * *
-**Short Exercise**
-
-Use the commands we've learned so far to figure out how to search
-in reverse while using `less`.
-
-* * * * 
-
 
 ## Redirection
 
