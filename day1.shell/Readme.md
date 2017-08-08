@@ -17,7 +17,7 @@ with a keyboard instead of controlling graphical user interfaces
 
 Use a browser to open the tutorial on github, located at:
 
-    https://github.com/fishjord/swc_hhmi
+    https://github.com/germslab/softwarecarpentry
 
 Click on the directory named `day1.shell`.
 
@@ -57,11 +57,11 @@ We will spend most of our time learning about the basics of the shell by manipul
 the data for this test, you will need internet access. Just enter the
 command:
 
-    git clone https://github.com/fishjord/swc_hhmi
+    git clone https://github.com/germslab/softwarecarpentry
 
 Followed by:
 
-    cd swc_hhmi/day1.shell/ 
+    cd softwarecarpentry/day1.shell/ 
 
 This command downloads all the data that will be needed for this tutorial.  
 
