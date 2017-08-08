@@ -1,4 +1,4 @@
-# The Shell
+#The Shell
 
 **Original Material by Milad Fatenejad, Sasha Wood, and Radhika Khetani**
 
@@ -17,7 +17,7 @@ with a keyboard instead of controlling graphical user interfaces
 
 Use a browser to open the tutorial on github, located at:
 
-    https://github.com/germslab/softwarecarpentry
+    https://github.com/germs-lab/softwarecarpentry
 
 Click on the directory named `day1.shell`.
 
@@ -57,7 +57,7 @@ We will spend most of our time learning about the basics of the shell by manipul
 the data for this test, you will need internet access. Just enter the
 command:
 
-    git clone https://github.com/germslab/softwarecarpentry
+    git clone https://github.com/germs-lab/softwarecarpentry
 
 Followed by:
 
